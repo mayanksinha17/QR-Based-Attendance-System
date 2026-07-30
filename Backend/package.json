@@ -10,7 +10,7 @@
   "keywords": [
     "javascript"
   ],
-  "author": "Praveen Raj",
+  "author": "Kumar Mayank",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
